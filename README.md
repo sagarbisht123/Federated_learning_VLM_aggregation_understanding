@@ -176,8 +176,8 @@ excess local training.
 
 **`FL_LocalSteps_Analysis_Report.pdf`** is the full write-up — 10 sections
 of plots plus a summary. Condensed version:
-[For IID sample image](assets/img_1.png)
-[For Non-IID sample image](assests/imge_2.png)
+![For IID sample image](assets/img_1.png)
+![For Non-IID sample image](assests/imge_2.png)
 
 - **Loss is a smooth, well-behaved training signal; CIDEr is noisy.** In
   every single run, aggregated CE loss falls monotonically round over round.
