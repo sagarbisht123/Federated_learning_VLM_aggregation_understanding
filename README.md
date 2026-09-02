@@ -178,7 +178,7 @@ excess local training.
 of plots plus a summary. Condensed version:
 ![For IID sample image](assets/img_1.png)
 
-![For Non-IID sample image](assests/img_2.png)
+![For Non-IID sample image](assets/img_2.png)
 
 - **Loss is a smooth, well-behaved training signal; CIDEr is noisy.** In
   every single run, aggregated CE loss falls monotonically round over round.
