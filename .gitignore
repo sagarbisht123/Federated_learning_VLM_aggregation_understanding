@@ -1,0 +1,14 @@
+data/
+fed_train/
+Output/
+raw_data/
+.env
+final_results.zip
+florence_runs_36028.err
+florence_runs_36028.out
+florence_runs_36029.err
+florence_runs_36029.err
+Output_2.zip
+Output.zip
+Readme.md
+
